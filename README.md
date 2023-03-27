@@ -13,4 +13,4 @@ Example use case: For given annual load, optimises PV plant parameters (e.g. PV 
 
 # Run
 
-Check the example set out in the jupyter notebook `example.ipynb`
+Run locally with the `streamlit run app.py` command.
