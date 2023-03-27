@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+numpy_financial
+platypus-opt
+streamlit
+plotly
+openpyxl
+
